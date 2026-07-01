@@ -40,17 +40,37 @@ The application enables users to browse job opportunities, post new jobs, and vi
 
 ---
 
-# 📸 Application Screenshots
+# 📸 Application Preview
 
-| Home Page | Job Listings |
-|-----------|--------------|
-| ![](images/home.png) | ![](images/jobs.png) |
+## 🏠 Home Page
 
-| Post Job | Job Details |
-|----------|-------------|
-| ![](images/add-job.png) | ![](images/details.png) |
+<p align="center">
+  <img src="images/home.png" width="100%" alt="Home Page">
+</p>
 
 ---
+
+## 💼 Job Listings
+
+<p align="center">
+  <img src="images/jobs.png" width="100%" alt="Job Listings">
+</p>
+
+---
+
+## ➕ Post New Job
+
+<p align="center">
+  <img src="images/add-job.png" width="100%" alt="Post New Job">
+</p>
+
+---
+
+## 📄 Job Details
+
+<p align="center">
+  <img src="images/details.png" width="100%" alt="Job Details">
+</p>
 
 # 🛠️ Tech Stack
 

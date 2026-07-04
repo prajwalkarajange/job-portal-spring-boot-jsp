@@ -1,4 +1,4 @@
-# 💼 Job Portal Web Application
+# 💼 Job Portal Web Application 
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F?style=for-the-badge&logo=springboot)
